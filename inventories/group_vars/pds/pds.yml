@@ -11,3 +11,6 @@ self_signed_certs_enabled: True
 
 # Configures webapp namespace name
 webapp_namespace: webapp
+
+# Setting cluster type
+cluster_type: pds
